@@ -1,9 +1,11 @@
 # D-Lab [WorkshopName] Workshop
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](http://mybinder.org/badge.svg)](BINDER_LINK_HERE)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPractical-Programming-Working-Group&urlpath=lab%2Ftree%2FPractical-Programming-Working-Group%2F&branch=main)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. Prior experience with [PriorWorkshopWithLink] is assumed.
+This repository contains the materials for D-Lab Practical Programming Working Group, open to all D-Lab members! This readme is still being updated, but the DataHub button above will work to take you to the code.
+
+
+[![Binder](http://mybinder.org/badge.svg)](BINDER_LINK_HERE)
 
 ## Workshop Goals
 
